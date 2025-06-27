@@ -11,4 +11,4 @@ This project includes interactive launch site maps built using Folium:
 - 🌍 [SpaceX Marker Cluster Map](https://ssgrant876.github.io/Interactive-Visual-Analytics-with-Folium/maps/spacex_marker_cluster_map.html)
 - 📍 [Spacex Mouse Position Map](https://ssgrant876.github.io/Interactive-Visual-Analytics-with-Folium/maps/spacex_mouse_position_map.html)
   
-NOTE: The above links open the interactive Folium maps in a new tab.
+NOTE: Open the above links in a new tab as they show interactive Folium maps.
